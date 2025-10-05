@@ -1,4 +1,4 @@
-ľ# Farm Sound (PHP 8.2+)
+# Farm Sound (PHP 8.2+)
 
 Demo projektu s kompozitným vzorom: `Animal`, `Herd`, `Farmhouse`, všetko `Soundable`.
 
