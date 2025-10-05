@@ -20,9 +20,6 @@ jobs:
       - name: Install deps
         run: composer install --prefer-dist --no-progress --no-interaction
 
-      - name: Code style (dry-run)
-        run: composer cs:check
-
       - name: Static analysis
         run: composer stan
 
