@@ -1,0 +1,7 @@
+parameters:
+  level: max
+  paths:
+    - src
+  checkGenericClassInNonGenericObjectType: true
+  checkMissingIterableValueType: true
+  checkMissingCallableSignature: true
